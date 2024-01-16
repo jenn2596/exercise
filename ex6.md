@@ -1,0 +1,1 @@
+This is an exercise file that will be renamed and deleted.
